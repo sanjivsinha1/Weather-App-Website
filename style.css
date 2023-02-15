@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+    background: url(1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    color: black;
+}
+
+.table text-center{
+    color: black;
+}
+
+.commonplace{
+    color: black;
+    text-align: center;
+}
+
+.table-responsive{
+    color: black;
+}
